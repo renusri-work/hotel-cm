@@ -1,0 +1,6 @@
+{
+  "name": "SyncStay Channel Manager",
+  "description": "Hospitality channel manager & PMS for hotels and Airbnbs with two-way OTA sync, walk-in bookings, GST tax invoices, quotations, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
